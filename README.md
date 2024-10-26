@@ -1,4 +1,4 @@
-Задача 1 
+<h>Задача 1</h1>
 
  
 ![image](https://github.com/user-attachments/assets/286effc7-63e9-4efc-a5f4-b5c4a63955c8)
@@ -7,7 +7,11 @@
 https://hub.docker.com/repository/docker/ne0kk/custom-nginx/general
 
 
-Задача 2 
+
+
+<h1>Задача 2</h1> 
+
+
 Пул из docker 
  ![image](https://github.com/user-attachments/assets/45ef6ceb-3b33-4ca9-9e15-e7319c347df5)
 
@@ -26,7 +30,9 @@ Rename контейнера
 
 
 
-Задача 3
+<h>Задача 3</h1>
+
+
 Присоединение к потоку вывода
  ![image](https://github.com/user-attachments/assets/cb467b02-41fd-410d-a3c1-0f7ab8b16cb4)
 
@@ -79,7 +85,10 @@ Rename контейнера
 
 
 
-Задача 4 
+<h>Задача 4</h1>
+
+
+
 Создаем контейнеры с ключами v – lдля монтирования папки, --name – для имени, d -t- для старта 
  ![image](https://github.com/user-attachments/assets/461aa172-2eb1-457f-bdf7-621c03f255ba)
 
@@ -97,7 +106,10 @@ Rename контейнера
 
 
 
-Задача 5 
+<h>Задача 5</h1> 
+
+
+
 Создадим паку
  ![image](https://github.com/user-attachments/assets/0b106d1e-778e-4d94-b449-eb79d39b49ce)
 
