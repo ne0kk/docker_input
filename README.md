@@ -1,4 +1,4 @@
-<h>Задача 1</h1>
+<h1>Задача 1</h1>
 
  
 ![image](https://github.com/user-attachments/assets/286effc7-63e9-4efc-a5f4-b5c4a63955c8)
